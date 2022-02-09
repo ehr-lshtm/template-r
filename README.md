@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A template to begin a project with R and RStudio. [Click here](https://github.com/ehr-lshtm/template/generate) to use this template, then replace this text with a desription of your project.
+A template to begin a project with R and RStudio. [Click here](https://github.com/ehr-lshtm/template-r/generate) to use this template, then replace this text with a desription of your project.
 
 ## Untracked files
 
