@@ -1,3 +1,3 @@
 # `output/`
 
-* Outputs generated through scripts goes in here
+* Outputs generated through scripts go in here
