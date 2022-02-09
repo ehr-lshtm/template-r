@@ -26,8 +26,8 @@ ehr_template/
 │   └── paths.R (untracked)
 ├── output/
 │   ├── README.md
-│   ├── cleaned_data_1.csv
-│   └── cleaned_data_2.csv
+│   ├── cleaned_data_1.csv (untracked)
+│   └── cleaned_data_2.csv (untracked)
 ├── R/
 │   ├── README.md
 │   └── functions.R
