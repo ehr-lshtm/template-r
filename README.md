@@ -11,7 +11,7 @@ A template to begin a project with R and RStudio.
 ## File tree
 
 ```
-ehr_template/
+r_template/
 ├── data/
 │   ├── README.md
 │   ├── raw_data_1.csv
