@@ -1,4 +1,4 @@
 # `data/`
 
-* Raw data that can be uploaded goes in here
-* Raw data that can't be uploaded must stay on secure network drives (specify paths to these in the `paths` folder)
+* Non-confidential raw data goes in here
+* Confidential raw data is stored on secure network drives *(define paths to these in `paths/paths.R`)*
