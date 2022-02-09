@@ -1,8 +1,8 @@
-# ehr-template-r
+# r-template
 
 ## Purpose
 
-An template to begin a project with R and RStudio.
+A template to begin a project with R and RStudio.
 
 ## How to use
 
@@ -23,7 +23,7 @@ ehr_template/
 │   └── document1.Rmd
 ├── paths/
 │   ├── README.md
-│   └── paths.R *(untracked)*
+│   └── paths.R (untracked)
 ├── output/
 │   ├── README.md
 │   ├── cleaned_data_1.csv

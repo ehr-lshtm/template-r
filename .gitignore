@@ -1,5 +1,23 @@
-# Paths to secure drives
+# Paths to secure drives -------------------------------------------------
 /paths/paths.R
+
+# General dataset and output files ---------------------------------------
+*.csv
+
+# Content of the output folder except the README -------------------------
+!output
+output/*
+!output/README.md
+
+# Stata dataset and output files -----------------------------------------
+*.dta
+*.gph
+*.log
+*.smcl
+*.stpr
+*.stsem
+
+# Default .gitignore files for R -----------------------------------------
 
 # History files
 .Rhistory
@@ -40,3 +58,10 @@ rsconnect/
 
 # macOS desktop services store
 .DS_Store
+
+# Operating system generated files ---------------------------------------
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
