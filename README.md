@@ -1,4 +1,4 @@
-# r-template
+# EHR group template for R
 
 ## Purpose
 
@@ -11,7 +11,7 @@ By default, `.csv`, Stata output, and all files in the `output/` and `paths/` fo
 ## File tree
 
 ```
-r_template/
+template-r/
 ├── data/
 │   ├── README.md
 │   ├── raw_data_1.csv
