@@ -2,11 +2,11 @@
 
 ## Purpose
 
-A template to begin a project with R and RStudio.
+A template to begin a project with R and RStudio. [Click here](https://github.com/ehr-lshtm/template/generate) to use this template, then replace this text with a desription of your project.
 
-## How to use
+## Untracked files
 
-[Click here](https://github.com/ehr-lshtm/template/generate) to use this template.
+By default, `.csv`, Stata output, and all files in the `output/` and `paths/` folders (except README) are untracked, i.e. they will not be uploaded to GitHub. Edit `.gitignore` to ignore or allow (with `!`) specific files or file types.
 
 ## File tree
 
