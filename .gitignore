@@ -1,10 +1,10 @@
 # General dataset and output files ---------------------------------------
 *.csv
 
-# Content of the output folder except the README -------------------------
-!output
-output/*
-!output/README.md
+# Content of the data folder except the README -------------------------
+!data
+data/*
+!data/README.md
 
 # Content of the paths folder except the README --------------------------
 !paths
